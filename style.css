@@ -13,7 +13,7 @@ main {
     background-color: hsl(0, 0%, 100%);
     padding: 15px;
     border-radius: 10px; 
-    width: 300px;
+    max-width: 300px;
 }
 
 img {
@@ -22,7 +22,7 @@ img {
 
 h1, p {
     text-align: center;
-    width: 260px;
+    max-width: 260px;
     margin: 20px auto;  
 }
 
