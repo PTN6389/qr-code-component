@@ -14,8 +14,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -49,5 +47,6 @@ I used ChatGPT to help me understand the concepts of centering the main content,
 
 ## Author
 
-- Website - [Christina Hicks](https://ptn6389.github.io/portfolio-website/)
+- Portfolio Website - [Christina Hicks](https://ptn6389.github.io/portfolio-website/)
+- LinkedIn - [LinkedIn](https://www.linkedin.com/in/christinahicks1)
 - Frontend Mentor - [@PTN6389](https://www.frontendmentor.io/profile/PTN6389)
